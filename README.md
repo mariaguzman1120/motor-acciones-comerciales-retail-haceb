@@ -1,5 +1,8 @@
 # Motor de Acciones Comerciales Retail - Haceb
 
+Demo desplegada en GitHub Pages:
+https://mariaguzman1120.github.io/motor-acciones-comerciales-retail-haceb/
+
 Sistema de Next Best Action (NBA) para retail fisico que combina dos modelos complementarios:
 
 - **Modelo de Clustering (K-Means)**: responde el COMO atender al cliente. Define el perfil de comportamiento, la psicologia de compra (VIP, cazador de ofertas, en riesgo) y el tono que el asesor debe usar.
