@@ -14,7 +14,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-notebooks/00_pipeline_completo.ipynb
 
 # Environment and editor files
 .env
