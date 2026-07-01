@@ -1,1 +1,0 @@
-"""Pipeline metadata and configuration."""

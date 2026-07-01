@@ -27,9 +27,10 @@ __pycache__/
 Thumbs.db
 
 # Generated pipeline outputs
-output/
+data/processed/
+models/*.joblib
+reports/*.html
 
-# Local datasets and supporting docs
-data/
-docs/
-AGENTS.md
+# MLflow
+mlflow.db
+mlruns/
