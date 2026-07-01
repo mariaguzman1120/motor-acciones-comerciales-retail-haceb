@@ -14,6 +14,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+notebooks/00_pipeline_completo.ipynb
 
 # Environment and editor files
 .env
@@ -27,6 +28,7 @@ __pycache__/
 Thumbs.db
 
 # Generated pipeline outputs
+data/raw/
 data/processed/
 models/*.joblib
 reports/*.html
